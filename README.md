@@ -41,3 +41,7 @@ Then you execute:
 ```bash
 yarn start
 ```
+
+### Help Image
+
+![Help](help.png)
